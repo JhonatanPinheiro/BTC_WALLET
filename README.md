@@ -9,3 +9,6 @@
 
 ## Depois precisará digitar o códigos padrões de nodejs para configuração do ambiente para que o essa aplicação funcione!
 ### npm start
+### npm init -y
+
+## Instalar algumas Independências para que o projeto funcione
