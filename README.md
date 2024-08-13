@@ -12,4 +12,4 @@
 ### npm init -y
 
 ## Instalar algumas Independências para que o projeto funcione
-###npm install bit39 bit32@2.0.6 bitcoinjs-lib --save
+### npm install bit39 bit32@2.0.6 bitcoinjs-lib --save
