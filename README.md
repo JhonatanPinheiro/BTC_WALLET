@@ -25,3 +25,11 @@ Instalar algumas independências para que o projeto funcione
 ```bash
 npm install bip39 bip32@2.0.6 bitcoinjs-lib --save
 ```
+
+Entrar na pasta
+Projeto: BTC_WALLET ->  cd .\src\  
+
+Para criar uma Wallet na rede do btc usando meu código
+```bash
+node .\createWallet.js
+```
