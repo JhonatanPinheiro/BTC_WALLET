@@ -1,7 +1,7 @@
 # BTC_WALLET
 
 ## Baixar o nodejs
- ###Link para download: https://nodejs.org/en
+### Link para download: https://nodejs.org/en
 
 ## Comandos para verificar se está instalados certinho . O retorno deve ser o numero que indica as versão que foi instalados
 ### node -v 
