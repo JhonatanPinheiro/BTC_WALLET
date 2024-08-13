@@ -1,15 +1,27 @@
-# BTC_WALLET
 
-## Baixar o nodejs
-### Link para download: https://nodejs.org/en
+## Instalação
 
-## Comandos para verificar se está instalados certinho . O retorno deve ser o numero que indica as versão que foi instalados
-### node -v 
-### npm -v
+Instale baixar o nodejs (16.16.0)
+```bash
+https://nodejs.org/pt/blog/release/v16.16.0
+```
+    
+Comandos para verificar se está instalados certinho . O retorno deve ser o numero que indica as versão que foi instalados
 
-## Depois precisará digitar o códigos padrões de nodejs para configuração do ambiente para que o essa aplicação funcione!
-### npm start
-### npm init -y
+```bash
+node -v
+```
+```bash
+npm -v
+````
 
-## Instalar algumas Independências para que o projeto funcione
-### npm install bit39 bit32@2.0.6 bitcoinjs-lib --save
+Depois precisará digitar o códigos padrões de nodejs para configuração do ambiente para que o essa aplicação funcione!
+
+```bash
+npm init -y
+````
+
+Instalar algumas independências para que o projeto funcione
+```bash
+npm install bit39 bit32@2.0.6 bitcoinjs-lib --save
+```
